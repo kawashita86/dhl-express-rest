@@ -9,7 +9,7 @@ Package to work with the DHL Express Rest API (v2). This package is currently in
 You can install the package via composer:
 
 ```bash
-composer require booni3/dhl-express-rest
+composer require kawashita86/dhl-express-rest
 ```
 
 ## Usage

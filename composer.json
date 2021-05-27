@@ -1,8 +1,8 @@
 {
-    "name": "booni3/dhl-express-rest",
+    "name": "kawashita86/dhl-express-rest",
     "description": "DHL Express REST API",
     "keywords": [
-        "booni3",
+        "kawashita86",
         "dhl-express-rest"
     ],
     "homepage": "https://github.com/booni3/dhl-express-rest",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.3",
         "nesbot/carbon": "^2.0"
     },
     "require-dev": {
